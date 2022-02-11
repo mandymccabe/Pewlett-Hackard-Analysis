@@ -5,8 +5,10 @@ Pewlett-Hackard is expecting a large number of employees to retire soon.  Their 
 ## Results
 - There are 72,548 positions that will need to be filled over the next 5 years
 - Senior Engineer, Senior Staff, and Engineer are the top 3 positions that will need to be filled. 
+
 ![image](Data/retiring_titles_count.png)
 - The top 3 departments that will be affected by the retirements are Development, Production, and Sales. 
+
 ![image](Data/dept_retire_count.png)
 - There are 1,459 employees eligible to be a mentor. 
 
@@ -22,4 +24,5 @@ Senior Staff, Engineer, and Senior Engineer have the largest number of eligible 
 
 ### What percent of current employees are expected to retire?
 There are 72,458 employees expected to retire out of 240124 current employees meaning ~30% of the workforce will be retiring. 
+
 ![image](Data/total_count.png)
